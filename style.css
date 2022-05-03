@@ -1,0 +1,29 @@
+body{
+    background:linear-gradient(lime 0%, cyan 100%);
+
+    font-family: 'Playfair Display', serif;
+}
+
+.header_div p{
+    font-weight:bold;
+    letter-spacing:2px;
+    background-color:orange;
+
+}
+
+.main_div{
+    letter-spacing:5px;
+    color:black;
+    font-weight:bold;
+
+}
+
+.footer{
+    position:fixed;
+    bottom:0;
+    background-color:yellow;
+    width:100%;
+    line-height:3;
+    color:red;
+    text-shadow:1px 1px gray;
+}
